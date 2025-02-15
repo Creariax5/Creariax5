@@ -54,16 +54,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
-## GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=creariax5&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creariax5&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
 ---
 
 <p align="center">💬 Feel free to reach out for collaborations or just a friendly chat!</p>
