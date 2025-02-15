@@ -51,7 +51,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 </details>
 </details>
+
 ---
+
 <p align="center">💬 Feel free to reach out for collaborations or just a friendly chat!</p>
 <p align="center">
   <a href="https://twitter.com/floriandem46530">
