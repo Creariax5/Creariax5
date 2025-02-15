@@ -8,6 +8,7 @@
 - AI Solutions
 - Full-Stack Development
 - Mobile App Development
+<!--
 <details>
 <summary><h2>Tech Stack 🛠️</h2></summary>
 <details>
@@ -63,3 +64,4 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+-->
