@@ -5,15 +5,12 @@
 ## About Me 🚀
 > Simple Freelance Developer passionate about crafting digital solutions
 
-### What I Do 💡
-- Data Analyst
-- AI Solutions
-- Full-Stack Development
-- Mobile App Development
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details>
+<details open>
 <summary><h2>Tech Stack 🛠️</h2></summary>
-
 <details>
 <summary><h4>Languages</h4></summary>
 
@@ -37,19 +34,33 @@
 </details>
 
 <details>
-<summary><h4>Mobile Development</h4></summary>
-
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-</details>
-
-<details>
 <summary><h4>Database</h4></summary>
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 </details>
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>What I Do 💡</h3>
+
+- **Data Analysis & AI Solutions** 📊
+  - Machine Learning Models
+  - Data Visualization
+  - Predictive Analytics
+  
+- **Full-Stack Development** 💻
+  - Web Applications
+  - RESTful APIs
+  - Database Design
+  
+- **Mobile Development** 📱
+  - Cross-platform Apps
+  - Native Android
+  - UI/UX Design
 
 <details>
 <summary><h4>DevOps & Tools</h4></summary>
@@ -66,7 +77,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 </details>
 
-</details>
+</td>
+</tr>
+</table>
 
 ---
 <p align="center">💬 Feel free to reach out for collaborations or just a friendly chat!</p>
